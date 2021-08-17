@@ -1,1 +1,3 @@
-wip
+{
+	"m.server": "matrix.mux.land:8448"
+}
